@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "nombre": "Arroz largo fino 1 kg",
+    "categoria": "Almacén",
+    "precio": 1800,
+    "emoji": "🍚",
+    "descripcion": "Arroz ideal para acompañar tus comidas diarias."
+  },
+  {
+    "id": 2,
+    "nombre": "Fideos spaghetti 500 g",
+    "categoria": "Almacén",
+    "precio": 1200,
+    "emoji": "🍝",
+    "descripcion": "Fideos clásicos para preparar tus platos favoritos."
+  },
+  {
+    "id": 3,
+    "nombre": "Gaseosa cola 2.25 L",
+    "categoria": "Bebidas",
+    "precio": 2500,
+    "emoji": "🥤",
+    "descripcion": "Una bebida refrescante para compartir."
+  },
+  {
+    "id": 4,
+    "nombre": "Papas fritas 150 g",
+    "categoria": "Snacks",
+    "precio": 1600,
+    "emoji": "🍟",
+    "descripcion": "Un snack crocante para cualquier momento."
+  },
+  {
+    "id": 5,
+    "nombre": "Galletitas dulces 300 g",
+    "categoria": "Golosinas",
+    "precio": 1400,
+    "emoji": "🍪",
+    "descripcion": "Galletitas dulces para acompañar el desayuno o la merienda."
+  },
+  {
+    "id": 6,
+    "nombre": "Detergente 750 ml",
+    "categoria": "Limpieza",
+    "precio": 2100,
+    "emoji": "🧴",
+    "descripcion": "Detergente para la limpieza diaria de tu vajilla."
+  },
+  {
+    "id": 7,
+    "nombre": "Leche entera 1 L",
+    "categoria": "Lácteos",
+    "precio": 1700,
+    "emoji": "🥛",
+    "descripcion": "Leche entera para disfrutar en cualquier momento del día."
+  },
+  {
+    "id": 8,
+    "nombre": "Chocolate con leche 100 g",
+    "categoria": "Golosinas",
+    "precio": 1900,
+    "emoji": "🍫",
+    "descripcion": "Chocolate con leche para darte un gusto."
+  }
+]
