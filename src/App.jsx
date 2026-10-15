@@ -8,7 +8,7 @@ import Carrito from "./pages/Carrito";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/one-market">
       <Layout>
         <Routes>
           <Route path="/" element={<Home />} />
